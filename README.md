@@ -1,4 +1,4 @@
-# Hello, I'm Safae! 
+# Hello, I'm Safae
 
 📚 **Studying Data Science & AI** | **Passionate about ML/DL, Backend Dev, and Problem Solving**  
 
