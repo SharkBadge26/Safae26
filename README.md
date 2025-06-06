@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Safae
+# Hello, I'm Safae <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **Data Science & AI Student** | **Full-Stack Developer**  
 Passionate about building intelligent systems and elegant applications  
