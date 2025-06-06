@@ -4,8 +4,6 @@ I'm **Safae**
 📚 **Studying Data Science & AI** | **Passionate about ML/DL, Backend Dev, and Problem Solving**  
 🌱 Currently working on **exciting web & mobile projects**  
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Safae26.Safae26)
-
 
 ### 🛠️ **Tech Stack**  
 - **Languages**: Python, Java, Dart  
