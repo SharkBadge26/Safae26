@@ -55,7 +55,6 @@ Passionate about building intelligent systems and elegant applications
 
 ---
 
-### 🔥 **Currently Working On**
+### **Currently Working On**
 - Web & mobile application development projects
 - Expanding my AI/ML expertise
-- Open source contributions
