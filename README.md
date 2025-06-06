@@ -3,8 +3,6 @@
 I'm **Safae**  
 **Studying Data Science & AI**  
 Currently working on **web & mobile projects**  
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Safae26&countColor=%2337d67a)
 ---
 
 ### 🛠️ **Tech Stack**  
