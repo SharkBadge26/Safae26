@@ -1,9 +1,9 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## ****Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">****
 
 ***I am a Data Science & AI Student*** | ***Full-Stack Developer***  
 ---
 
-### 🚀 **Technologies & Tools**
+### **Technologies & Tools**
 
 #### **Programming Languages**
 <div>
