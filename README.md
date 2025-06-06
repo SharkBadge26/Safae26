@@ -4,6 +4,7 @@ I'm **Safae**
 **Studying Data Science & AI**  
 Currently working on **web & mobile projects**  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Safae6&color=blue)
 ---
 
 ### 🛠️ **Tech Stack**  
